@@ -6,7 +6,7 @@ A cross-platform C program that communicates with a Raspberry Pi Pico over a ser
 
 ## 📦 Contents
 
-- `Assignment_2_Extra_Code.c` – Main PC-side game logic
+- `Game_Extra_Code.c` – Main PC-side game logic
 - `pc_side.c` – Alternate or extended version of the game logic
 - `rs232.h` – RS232 serial communication header (by Teunis van Beelen)
 - `rs232.c` – RS232 serial communication implementation (**placeholder**: replace with actual source)
